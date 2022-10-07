@@ -1,0 +1,25 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>bclub_distantlights.ymap</Item>
+    <Item>bclub_ext.ymap</Item>
+    <Item>bclub_int.ymap</Item>
+    <Item>bclub_lodlights.ymap</Item>
+    <Item>bclub_lods.ymap</Item>
+    <Item>bullet_club_ext.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>bclub_mlo.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
