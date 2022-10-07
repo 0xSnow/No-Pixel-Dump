@@ -1,0 +1,16 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>tony_warehouse_club.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>tony_warehouse.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
